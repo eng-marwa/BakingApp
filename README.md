@@ -10,14 +10,11 @@ The app that allowed Udacity’s resident baker-in-chief, Miriam, to share her r
 - RecycleView
 
  # ScreenShots
-
- <img src="https://github.com/eng-marwa/BakingApp/blob/master/Screenshot_1521807444.png" width=200 height=350/>
- <img src="https://github.com/eng-marwa/BakingApp/blob/master/Screenshot_1521807470.png" width=200 height=350/>
- <img src="https://github.com/eng-marwa/BakingApp/blob/master/Screenshot_1521807482.png" width=200 height=350/>
- <img src="https://github.com/eng-marwa/BakingApp/blob/master/Screenshot_1521807498.png" width=200 height=350/>
-
-
-
+ <img src="https://github.com/eng-marwa/BakingApp/blob/master/Screenshots/Screenshot_1521807444.png" width=200 height=350/>
+ <img src="https://github.com/eng-marwa/BakingApp/blob/master/Screenshots/Screenshot_1521807470.png" width=200 height=350/>
+ <img src="https://github.com/eng-marwa/BakingApp/blob/master/Screenshots/Screenshot_1521807482.png" width=200 height=350/>
+ <img src="https://github.com/eng-marwa/BakingApp/blob/master/Screenshots/Screenshot_1521807498.png" width=200 height=350/>
+ 
 # License
 
 Copyright (c) [2017] [Marwa Talaat]
